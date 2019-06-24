@@ -3337,3 +3337,23 @@ input, select, textarea {
 			}
 
 	}
+
+	.cnt-text {
+		text-align: center;
+	}
+
+	.li-text-design{
+		color: blue;
+		font-weight: bold;
+	}
+
+	.bord-design{
+		border: black 3px solid;
+		border-radius: 5%;
+		padding: 2px 2px 2px 2px;
+
+	}
+
+	.top-space{
+		margin-top: 15px;
+	}
