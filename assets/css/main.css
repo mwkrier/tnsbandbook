@@ -3343,8 +3343,9 @@ input, select, textarea {
 	}
 
 	.li-text-design{
-		color: blue;
+		color: black;
 		font-weight: bold;
+		text-decoration: underline;
 	}
 
 	.bord-design{
@@ -3356,4 +3357,12 @@ input, select, textarea {
 
 	.top-space{
 		margin-top: 15px;
+	}
+
+	.g-font-title{ 
+		font-family: 'Allerta Stencil', sans-serif;
+	}
+
+	.title-blue{
+		color: #37c0fb;
 	}
