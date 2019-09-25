@@ -3366,3 +3366,11 @@ input, select, textarea {
 	.title-blue{
 		color: #37c0fb;
 	}
+
+	.black {
+		background-color: #333;
+	}
+	
+	.top_blue_border{
+		border-top: #37c0fb 10px solid; 
+	}
