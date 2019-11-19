@@ -3386,3 +3386,9 @@ input, select, textarea {
 	.whitetype{
 		color: white;
 	}
+
+	.divscroll {
+		background-color: ghostwhite;
+		height: 400px;
+		overflow: auto; 
+	}
