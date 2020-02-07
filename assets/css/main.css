@@ -3392,3 +3392,9 @@ input, select, textarea {
 		height: 400px;
 		overflow: auto; 
 	}
+
+	.box_design{
+		background-color: lightblue;
+		border-radius: 15px;
+		text-align: center;
+	}
