@@ -1,0 +1,99 @@
+/*navigation style*/
+.spaceAround{
+    margin-top: 15px;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.testBorder{
+    border: red dotted 3px;
+}
+
+/*text style*/
+.textDesign{
+    font-family: 'Racing Sans One', cursive;
+}
+
+.textDesign2{
+    color: white;
+    font-size: medium;
+}
+
+.textDesign3{
+    color: white;
+    font-size: large;
+}
+
+
+/*border designs*/
+.borderDesign1{
+    margin-top: 20px;
+}
+
+.borderDesign2{
+    margin-top: 15px;
+    border: 5px solid #007bff;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+      
+}
+
+.borderDesignRed{
+    margin-top: 15px;
+    border: 5px solid #dc3545;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+      
+}
+
+.borderDesignTeal{
+    margin-top: 15px;
+    border: 5px solid #17a2b8;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+      
+}
+
+
+.borderDesign3{
+    margin-top: 20px;
+    border: 5px solid #007bff;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.borderDesign4{
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.borderDesign5{
+    margin-top: 10px;
+}
+
+.backgroundImage{
+    background-color: silver
+}
+
+.extraMargin{
+    margin-left: 50px;
+}
+
+.extraMargin1{
+    margin: 10px;
+}
+
+.scrollDiv{
+    overflow-y: scroll;
+    max-height: 200px;
+}
+
+.scrollDiv1{
+    overflow-y: scroll;
+    max-height: 160px;
+}
+
+.pointer {
+    cursor: pointer;
+}
